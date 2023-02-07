@@ -29,11 +29,6 @@ export interface IProject {
   liveUrl: string;
 }
 
-// TODO: enable projects
-// export interface IProjects {
-//   projects: IProject[];
-// }
-
 export interface IProjectDetails {
   projectDetail: IProject;
 }

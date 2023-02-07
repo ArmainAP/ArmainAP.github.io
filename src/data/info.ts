@@ -167,15 +167,4 @@ export const info = {
     github: "https://github.com/ArmainAP",
     linkedin: "https://www.linkedin.com/in/adrian-marian-popoviciu-699670167/",
   },
-
-  // TODO: enable projects
-  // projects: [
-  //   {
-  //     title: "Astro Portfolio",
-  //     isFeatured: true,
-  //     thumbnail: "/assets/images/astro-portfolio.png",
-  //     githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-  //     liveUrl: "https://astro-portfolio-uzair.vercel.app/",
-  //   },
-  // ],
 };
