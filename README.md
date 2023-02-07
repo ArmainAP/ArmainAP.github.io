@@ -32,7 +32,6 @@ Inside of your Astro project, you'll see the following folders and files:
 │   |   ├── peojects.astro
 │   |   ├── index.astro
 │   ├── styles/
-│   |   |── custom-styles.css
 │   |   |── fonts.css
 │   |   └── styles.css
 │   ├── types/

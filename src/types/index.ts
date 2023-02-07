@@ -28,9 +28,11 @@ export interface IProject {
   githubUrl: string;
   liveUrl: string;
 }
-export interface IProjects {
-  projects: IProject[];
-}
+
+// TODO: enable projects
+// export interface IProjects {
+//   projects: IProject[];
+// }
 
 export interface IProjectDetails {
   projectDetail: IProject;
